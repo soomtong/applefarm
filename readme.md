@@ -106,10 +106,7 @@ https://d2mxuefqeaa7sj.cloudfront.net/s_CF2FC2E853C1C0D85E307FA9500BFD548CD8793B
 
 #### 안드로이드
 
-…
-…
-…
-
+(Work in progress)
 
 ### 주요 컴포넌트 사용시 주의점
 
@@ -133,6 +130,16 @@ Demensions 컴포넌트를 통해 현재 애플리케이션의 구동 환경 정
 
     const styles = StyleSheet.create({ contentContainer: { paddingVertical: 20 } });
     <ScrollView contentContainerStyle={styles.contentContainer}></ScrollView>
+
+
+## 리소스
+
+- [React Native](https://facebook.github.io/react-native/)
+- [React Native Express](http://www.reactnativeexpress.com/)
+- [SQLite bind React Native](https://github.com/andpor/react-native-sqlite-storage)
+- [Vector Icons for React Native](https://github.com/oblador/react-native-vector-icons)
+- [Swipeable Views](https://github.com/oliviertassinari/react-swipeable-views)
+- [SQLite for Cordova](https://github.com/litehelpers/Cordova-sqlite-storage#sample)
 
 
 
