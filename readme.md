@@ -85,6 +85,7 @@
             images or any stuffs
     /ios
     /node_modules
+    /www
     index.android.js
     index.ios.js
 
@@ -99,7 +100,7 @@
 다시 한 번 말하지만 Cocoapods 를 사용하지 않아도 된다. 또는 각 서드파티 메뉴얼에서 제공하는 수동 설정 방법을 사용하지 않아도 된다.
 다음 스크린샷을 참고하여 각 라이브러리의 컴파일된 파일(타겟 파일)을 정확히 링크되도록 한다. 벡터 아이콘을 사용하기위해 `react-native-vector-icons` 를 임베딩하는 과정이다.
 
-https://d2mxuefqeaa7sj.cloudfront.net/s_CF2FC2E853C1C0D85E307FA9500BFD548CD8793BDA19E00433E508882BBD73A5_1472839804375_file.png
+![](https://d2mxuefqeaa7sj.cloudfront.net/s_CF2FC2E853C1C0D85E307FA9500BFD548CD8793BDA19E00433E508882BBD73A5_1472839804375_file.png)
 
 
 기억할 것은 네이티브 애플리케이션이 정상적으로 빌드되어야 한다는 점이다. 엑스코드에서 경고하는 메시지를 참고해 해결하도록 하자.
